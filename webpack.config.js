@@ -6,7 +6,7 @@ module.exports = {
         __dirname + '/react/shemesh.js'
     ],
     output: {
-        path: __dirname + '/view/js/',
+        path: __dirname + '/public/js/',
         filename: 'app.js'
     },
     plugins: [

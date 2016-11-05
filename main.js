@@ -5,11 +5,11 @@ const url = require('url');
 const app = express();
 app.disable('x-powered-by');
 
-app.use(express.static(path.join(__dirname, 'view')));
+app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('*', function(req, res, next) {
     console.log('Request: [GET]', req.originalUrl);
-    res.sendFile(path.resolve(__dirname, 'view/index.html'));
+    res.sendFile(path.resolve(__dirname, 'public/index.html'));
 });
 
 

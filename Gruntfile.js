@@ -2,7 +2,7 @@ module.exports = function (grunt) {
 
     grunt.initConfig({
         jsDistDir: 'public/production/',
-        cssDistDir: 'view/css/',
+        cssDistDir: 'public/css/',
         sassDir: 'sass/',
         pkg: grunt.file.readJSON('package.json'),
         sass: {
