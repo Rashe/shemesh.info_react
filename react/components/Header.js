@@ -7,7 +7,7 @@ class Header extends React.Component {
             <header>
                 <nav id="outside">
                     <div className="nav-wrapper">
-                        <ul id="mobile-demo" className="hide-on-med-and-down top_list nav_center">
+                        <ul id="mobile-demo" className="top_list nav_center">
                             <li className="top_menu">
                                 <Link to={"/"} >Home</Link>
                             </li>
