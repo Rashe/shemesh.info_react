@@ -1,0 +1,16 @@
+{
+    "api": "https://api.eveonline.com/",
+    "char_id": "&characterID:95890064",
+    "server_status": "Server/ServerStatus.xml.aspx",
+    "account_status": "Account/AccountStatus.xml.aspx",
+    "characters": "Account/Characters.xml.aspx",
+    "character_sheet": "Char/CharacterSheet.xml.aspx",
+    "acc_balance": "Char/AccountBalance.xml.aspx",
+    "mail_messages": "Char/MailMessages.xml.aspx",
+    "wallet_trans": "Char/WalletTransactions.xml.aspx",
+    "standings": "Char/Standings.xml.aspx",
+    "wallet_journal": "Char/WalletJournal.xml.aspx",
+    "skills_queue": "Char/SkillQueue.xml.aspx",
+    "mail_bodies": "Char/MailBodies.xml.aspx",
+    "typeId":"Eve/TypeName.xml.aspx"
+}

@@ -1,0 +1,43 @@
+{
+  "name": "shemesh",
+  "version": "3.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./main.js"
+  },
+  "dependencies": {
+    "body-parser": "1.x",
+    "cookie-parser": "1.x",
+    "express": "4.x",
+    "express-device": "*",
+    "express-session": "*",
+    "static-favicon": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-redux": "*",
+    "react-router": "*",
+    "redux": "*",
+    "react-router-redux": "*",
+    "material-ui": "*"
+  },
+  "devDependencies": {
+    "babel-core": "*",
+    "babel-loader": "*",
+    "babel-preset-es2015": "*",
+    "babel-preset-react": "*",
+    "babel-preset-react-optimize": "*",
+    "babel-preset-stage-0": "*",
+    "compression-webpack-plugin": "*",
+    "grunt": "*",
+    "grunt-contrib-concat": "*",
+    "grunt-contrib-cssmin": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-sass": "*",
+    "grunt-contrib-uglify": "*",
+    "grunt-contrib-watch": "*",
+    "uglify-js": "*",
+    "webpack": "*",
+    "webpack-dev-middleware": "*",
+    "webpack-hot-middleware": "*"
+  }
+}

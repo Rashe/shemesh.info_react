@@ -1,0 +1,409 @@
+{
+  "mining_ore": {
+    "veldspar": {
+      "name": "veldspar",
+      "name_up": "Veldspar",
+      "storage": "0.1",
+      "total_cap": "50000",
+      "batch": "333",
+      "types": {
+        "1": {
+          "name_up": "Veldspar"
+        },
+        "2": {
+          "name_up": "Concentrated"
+        },
+        "3": {
+          "name_up": "Dense"
+        }
+      },
+      "mineral": {
+        "1": {
+          "min_name": "tritanuim",
+          "min_name_up": "Tritanium",
+          "min_prod": {
+            "1": "1000",
+            "2": "1050",
+            "3": "1100"
+          }
+        }
+      }
+    },
+    "scordite": {
+      "name": "scordite",
+      "name_up": "Scordite",
+      "storage": "0.15",
+      "total_cap": "33333",
+      "batch": "333",
+      "types": {
+        "1": {
+          "name_up": "Scordite"
+        },
+        "2": {
+          "name_up": "Condensed"
+        },
+        "3": {
+          "name_up": "Massive"
+        }
+      },
+      "mineral": {
+        "1": {
+          "min_name": "tritanuim",
+          "min_name_up": "Tritanium",
+          "min_prod": {
+            "1": "833",
+            "2": "875",
+            "3": "916"
+          }
+        },
+        "2": {
+          "min_name": "pyerite",
+          "min_name_up": "Pyerite",
+          "min_prod": {
+            "1": "416",
+            "2": "437",
+            "3": "458"
+          }
+        }
+      }
+    },
+    "pyroxeres": {
+      "name": "pyroxeres",
+      "name_up": "Pyroxeres",
+      "storage": "0.3",
+      "total_cap": "16666",
+      "batch": "333",
+      "types": {
+        "1": {
+          "name_up": "Pyroxeres"
+        },
+        "2": {
+          "name_up": "Solid"
+        },
+        "3": {
+          "name_up": "Viscous"
+        }
+      },
+      "mineral": {
+        "1": {
+          "min_name": "tritanuim",
+          "min_name_up": "Tritanium",
+          "min_prod": {
+            "1": "844",
+            "2": "886",
+            "3": "928"
+          }
+        },
+        "2": {
+          "min_name": "pyerite",
+          "min_name_up": "Pyerite",
+          "min_prod": {
+            "1": "59",
+            "2": "62",
+            "3": "65"
+          }
+        },
+        "3": {
+          "min_name": "mexallon",
+          "min_name_up": "Mexallon",
+          "min_prod": {
+            "1": "120",
+            "2": "126",
+            "3": "132"
+          }
+        },
+        "4": {
+          "min_name": "nocxium",
+          "min_name_up": "Nocxium",
+          "min_prod": {
+            "1": "11",
+            "2": "12",
+            "3": "12"
+          }
+        }
+      }
+    },
+    "plagioclase": {
+      "name": "plagioclase",
+      "name_up": "Plagioclase",
+      "storage": "0.35",
+      "total_cap": "14285",
+      "batch": "333",
+      "types": {
+        "1": {
+          "name_up": "Plagioclase"
+        },
+        "2": {
+          "name_up": "Azure"
+        },
+        "3": {
+          "name_up": "Rich"
+        }
+      },
+      "mineral": {
+        "1": {
+          "min_name": "tritanuim",
+          "min_name_up": "Tritanium",
+          "min_prod": {
+            "1": "256",
+            "2": "269",
+            "3": "282"
+          }
+        },
+        "2": {
+          "min_name": "pyerite",
+          "min_name_up": "Pyerite",
+          "min_prod": {
+            "1": "512",
+            "2": "538",
+            "3": "563"
+          }
+        },
+        "3": {
+          "min_name": "mexallon",
+          "min_name_up": "Mexallon",
+          "min_prod": {
+            "1": "256",
+            "2": "269",
+            "3": "282"
+          }
+        }
+      }
+    },
+    "omber": {
+      "name": "omber",
+      "name_up": "Omber",
+      "storage": "0.6",
+      "total_cap": "8333",
+      "batch": "500",
+      "types": {
+        "1": {
+          "name_up": "Omber"
+        },
+        "2": {
+          "name_up": "Silvery"
+        },
+        "3": {
+          "name_up": "Golden"
+        }
+      },
+      "mineral": {
+        "1": {
+          "min_name": "tritanuim",
+          "min_name_up": "Tritanium",
+          "min_prod": {
+            "1": "307",
+            "2": "322",
+            "3": "338"
+          }
+        },
+        "2": {
+          "min_name": "pyerite",
+          "min_name_up": "Pyerite",
+          "min_prod": {
+            "1": "123",
+            "2": "129",
+            "3": "135"
+          }
+        },
+        "3": {
+          "min_name": "isogen",
+          "min_name_up": "Isogen",
+          "min_prod": {
+            "1": "307",
+            "2": "322",
+            "3": "338"
+          }
+        }
+      }
+    },
+    "kernite": {
+      "name": "kernite",
+      "name_up": "Kernite",
+      "storage": "1.2",
+      "total_cap": "4166",
+      "types": {
+        "1": {
+          "name_up": "Kernite"
+        },
+        "2": {
+          "name_up": "Luminous"
+        },
+        "3": {
+          "name_up": "Fiery"
+        }
+      }
+    },
+    "jaspet": {
+      "name": "jaspet",
+      "name_up": "Jaspet",
+      "storage": "2",
+      "total_cap": "2500",
+      "types": {
+        "1": {
+          "name_up": "Jaspet"
+        },
+        "2": {
+          "name_up": "Pure"
+        },
+        "3": {
+          "name_up": "Pristine"
+        }
+      }
+    },
+    "hemorphite": {
+      "name": "hemorphite",
+      "name_up": "Hemorphite",
+      "storage": "3",
+      "total_cap": "1666",
+      "types": {
+        "1": {
+          "name_up": "Hemorphite"
+        },
+        "2": {
+          "name_up": "Vivid"
+        },
+        "3": {
+          "name_up": "Radiant"
+        }
+      }
+    },
+    "hedbergite": {
+      "name": "hedbergite",
+      "name_up": "Hedbergite",
+      "storage": "3",
+      "total_cap": "1666",
+      "types": {
+        "1": {
+          "name_up": "Hedbergite"
+        },
+        "2": {
+          "name_up": "Vitric"
+        },
+        "3": {
+          "name_up": "Glazed"
+        }
+      }
+    },
+    "gneiss": {
+      "name": "gneiss",
+      "name_up": "Gneiss",
+      "storage": "5",
+      "total_cap": "1000",
+      "types": {
+        "1": {
+          "name_up": "Gneiss"
+        },
+        "2": {
+          "name_up": "Iridescent"
+        },
+        "3": {
+          "name_up": "Prismatic"
+        }
+      }
+    },
+    "dark_ochre": {
+      "name": "dark_ochre",
+      "name_up": "Dark Ochre",
+      "storage": "8",
+      "total_cap": "625",
+      "types": {
+        "1": {
+          "name_up": "Dark Ochre"
+        },
+        "2": {
+          "name_up": "Onyx"
+        },
+        "3": {
+          "name_up": "Obsidian"
+        }
+      }
+    },
+    "spodumain": {
+      "name": "spodumain",
+      "name_up": "Spodumain",
+      "storage": "16",
+      "total_cap": "312",
+      "types": {
+        "1": {
+          "name_up": "Spodumain"
+        },
+        "2": {
+          "name_up": "Bright"
+        },
+        "3": {
+          "name_up": "Gleaming"
+        }
+      }
+    },
+    "crokite": {
+      "name": "crokite",
+      "name_up": "Crokite",
+      "storage": "16",
+      "total_cap": "312",
+      "types": {
+        "1": {
+          "name_up": "Crokite"
+        },
+        "2": {
+          "name_up": "Sharp"
+        },
+        "3": {
+          "name_up": "Crystalline"
+        }
+      }
+    },
+    "bistot": {
+      "name": "bistot",
+      "name_up": "Bistot",
+      "storage": "16",
+      "total_cap": "312",
+      "types": {
+        "1": {
+          "name_up": "Bistot"
+        },
+        "2": {
+          "name_up": "Triclinic"
+        },
+        "3": {
+          "name_up": "Monoclinic"
+        }
+      }
+    },
+    "arkonor": {
+      "name": "arkonor",
+      "name_up": "Arkonor",
+      "storage": "16",
+      "total_cap": "312",
+      "types": {
+        "1": {
+          "name_up": "Arkonor"
+        },
+        "2": {
+          "name_up": "Crimson"
+        },
+        "3": {
+          "name_up": "Prime"
+        }
+      }
+    },
+    "mercoxit": {
+      "name": "mercoxit",
+      "name_up": "Mercoxit",
+      "storage": "40",
+      "total_cap": "125",
+      "types": {
+        "1": {
+          "name_up": "Mercoxit"
+        },
+        "2": {
+          "name_up": "Magma"
+        },
+        "3": {
+          "name_up": "Vitreous"
+        }
+      }
+    }
+  },
+  "disabled_reg": "Sorry, registration correctly disabled"
+}
