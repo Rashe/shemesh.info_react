@@ -1,0 +1,85 @@
+{
+  "posts":[
+
+    {
+      "_id": {
+        "oid": "5422dfa4211df3897c944c2f"
+      },
+      "__v": 0,
+      "post_body": "<p>The first post usually happy to announce a new blog, but I'm not happy at all. For 2 hours I tried to make this website work on production. Lol, this is the third time I have problems while deploy to production. It's never the same on your computer and real server, NEVER.. \r\nAnyway, I hope I've done all and fixed all production bugs.<\/p>\r\n<p> The blog and whole website runs on nodejs, I've made it coz I was bored :) Next posts will be about nodejs and it's problems while coding. <\/p>\r\n<p>Cya in next post. <\/p>",
+      "post_dateCreate": {
+        "date": "2014-09-24T15:13:40.185Z"
+      },
+      "post_link": "the_first_post_in_blog",
+      "post_published": true,
+      "post_title": "The first post in blog",
+      "post_user": "rshemesh",
+      "post_teaser": "<p>The first post usually happy to announce a new blog, but I'm not happy at all. For 2 hours I tried to make this website work on production. Lol, this is the third time I have problems while deploy to production. It's never the same on your computer and real server, NEVER.. \r\nAnyway, I hope I've done all and fixed all production bugs.<\/p>\r\n<p> The blog and whole website runs on nodejs, I've made it coz I was bored :) Next posts will be about nodejs and it's problems while coding. <\/p>\r\n<p>Cya in next post. <\/p>"
+    },
+    {
+      "_id": {
+        "oid": "553cdde5c21f5472567c1b77"
+      },
+      "post_user": "rshemesh",
+      "post_title": "Site redesign and mobile friendly",
+      "post_link": "site_redesign_and_mobile_frendly",
+      "post_body": "<p><img alt=\"\" src=\"https://www.prestashop.com/blog/en/files/2015/04/responsive-google-657x345.jpg\" style=\"height:345px; width:657px\" /><\/p>\r\n\r\n<p>The website is redesigned, I love minimalistic and light. So I decided to remove the dark background. Also changed the fonts.<\/p>\r\n\r\n<p>The googles mobile frendly new search came out, so I decided to make my website mobile friendly. There is no much people visiting this website, but I made it bacause I can :D<\/p>\r\n\r\n<p>Also I added CKeditor for my admin panel, it took me about 2 min, huge thanks to CKeditor team, made instalization easy.<\/p>\r\n\r\n<p>Thats all I wanted to say. Maybe the next post will be about GTA 5 PC version.<\/p>\r\n",
+      "post_published": true,
+      "post_dateCreate": {
+        "date": "2015-04-26T12:45:25.855Z"
+      },
+      "__v": 0,
+      "post_teaser": "<p><img alt=\"\" src=\"https://www.prestashop.com/blog/en/files/2015/04/responsive-google-657x345.jpg\" style=\"height:345px; width:657px\" /><\/p>\r\n\r\n<p>The website is redesigned, I love minimalistic and light. So I decided to remove the dark background. Also changed the fonts.<\/p>\r\n\r\n<p>The googles mobile frendly new search came out, so I decided to make my website mobile friendly. There is no much people visiting this website, but I made it bacause I can :D<\/p>\r\n\r\n<p>Also I added CKeditor for my admin panel, it took me about 2 min, huge thanks to CKeditor team, made instalization easy.<\/p>\r\n\r\n<p>Thats all I wanted to say. Maybe the next post will be about GTA 5 PC version.<\/p>\r\n"
+    },{
+      "_id": {
+        "oid": "556edce4705be3595e9f8fda"
+      },
+      "post_user": "rshemesh",
+      "post_title": "Teamspeak server 32 slot for 5$ per month",
+      "post_link": "teamspeak_server_32_slot_for_5_per_month",
+      "post_body": "<p><img alt=\"Team speak\" src=\"https://i.imgur.com/5gIuEfP.png\" style=\"height:331px; width:782px\" /><\/p>\r\n\r\n<p>A special offer - teamspeak 3 server 32 slot for 5$ month, server located in Canada. If you prefer server located in Europe, it will cost 8$ month, but to be honest you will not feel the difference between them.<\/p>\r\n\r\n<p>You will have admin permissions to manage team speak server as you want.<\/p>\r\n",
+      "post_teaser": "<p><img alt=\"Team speak\" src=\"https://i.imgur.com/5gIuEfP.png\" style=\"height:331px; width:782px\" /><\/p>\r\n\r\n<p>A special offer - teamspeak 3 server 32 slot for 5$ month, server located in Canada. If you prefer server located in Europe, it will cost 8$ month, but to be honest you will not feel the difference between them.<\/p>\r\n\r\n<p>You will have admin permissions to manage team speak server as you want.<\/p>\r\n",
+      "post_published": true,
+      "post_dateCreate": {
+        "date": "2015-06-03T10:54:28.251Z"
+      },
+      "__v": 0
+    },{
+      "_id": {
+        "oid": "543056ce37f4d69d101b3dca"
+      },
+      "__v": 0,
+      "post_body": "<p><img alt=\"\" src=\"https://i.ytimg.com/vi/uCBJnzUS11U/maxresdefault.jpg\" style=\"height:1200px; width:1920px\" /><\/p>\r\n\r\n<p>Давно я не проходил игру до конца, давно не видел хорошей игры в которую можно было бы зависнуть на целые выходные. И вот после двух с половиной дней почти непрерывного убивания орков, я игру прошел, ура.<\/p>\r\n\r\n<p>Как по мне так игра не однозначная, пару раз в гневе я бил клаву и закрывал игру с матом и красными глазами когда толпы орков меня таки добивали, иногда я не мог остановиться и продолжал играть пол ночи. Не известная мне фирма Монолит выпускает игру, да еще и с заявой на эпичность, скачав ее я не очень надеялся на увидеть что-то стоящее, а игра оказалась стоящей, она затягивает. Игрока (лицом) окунают в историю Мордора, в мир Толкиена, где есть люди, эльфы, гномы, гопота и конечно же Голум. Однако сюжет в игре мне показался простоватым (после сезонов Игр престолов). В игре не шибко много героев-друзей главного героя, та блондиночка, он ей даже не вдул.<\/p>\r\n\r\n<hr />\r\n<p>Геймплей, напоминает Асассинс Крид, главные квесты и побочные. В какой-то момент я перестал делать побочные квесты, так как они однотипные и по мне не интересные, я даже подумал что вот-вот игра надоест и поэтому делал только меин квесты. Очень понравилась фича с армией Саурона, вся эта динамика для меня нова. Очень интересны бои, особенно когда орков штук 30 и все они начинают пытаться тебя убивать. Однако бои с главными боссами ну уж очень просты, мне было гораздо сложнее в обычных поединках с орками. Так же не хватает гринда и крафта, лут с мини боссов в виде рун на одно из трех оружий. Нельзя менять оружия, нельзя менять портянки (шмот).<\/p>\r\n\r\n<p>В игру стоит играть однозначно.<\/p>\r\n",
+      "post_dateCreate": {
+        "date": "2014-10-04T20:21:34.159Z"
+      },
+      "post_link": "shadow_of_mordor",
+      "post_published": true,
+      "post_title": "Shadow of Mordor",
+      "post_user": "rshemesh",
+      "post_teaser": "<p><img alt=\"\" src=\"https://i.ytimg.com/vi/uCBJnzUS11U/maxresdefault.jpg\" style=\"height:1200px; width:1920px\" /><\/p>\r\n\r\n<p>Давно я не проходил игру до конца, давно не видел хорошей игры в которую можно было бы зависнуть на целые выходные. И вот после двух с половиной дней почти непрерывного убивания орков, я игру прошел, ура.<\/p>\r\n\r\n<p>Как по мне так игра не однозначная, пару раз в гневе я бил клаву и закрывал игру с матом и красными глазами когда толпы орков меня таки добивали, иногда я не мог остановиться и продолжал играть пол ночи. Не известная мне фирма Монолит выпускает игру, да еще и с заявой на эпичность, скачав ее я не очень надеялся на увидеть что-то стоящее, а игра оказалась стоящей, она затягивает. Игрока (лицом) окунают в историю Мордора, в мир Толкиена, где есть люди, эльфы, гномы, гопота и конечно же Голум. Однако сюжет в игре мне показался простоватым (после сезонов Игр престолов). В игре не шибко много героев-друзей главного героя, та блондиночка, он ей даже не вдул.<\/p>\r\n\r\n"
+    },{
+      "_id": {
+        "oid": "55b3a50bebdf4d5d5d9c320a"
+      },
+      "post_user": "rshemesh",
+      "post_title": "Elementary OS another try",
+      "post_link": "elementary_os_another_try",
+      "post_body": "<p><img alt=\"Elementary OS\" src=\"https://i.imgur.com/oDl8FV5.png\" style=\"height:898px; width:1313px\" /><\/p>\r\n\r\n<p>The last time I&#39;ve tried the Elementary OS was about 2 years ago. It&#39;s beautiful, but I didn&#39;t like it because of lags and freezes. It was old machine, Core i3 and 4gb ram, GeForce 8800.&nbsp;<\/p>\r\n\r\n<p>It&#39;s time to try what has been changed.<\/p>\r\n\r\n<p>Ubuntu is great OS for development and work, but isn&#39;t perfect at all, that&#39;s why I always look for something new to try, this time it&#39;s Elementary OS.<\/p>\r\n\r\n<hr />\r\n<p>The new version for me is Elementary OS Freya, released on April. After installation it started up very fast. I thought &quot;wow, it&#39;s beautiful&quot;. The OS is really looks good and fast. The animation and the dock are similar to Mac. Ok, I don&#39;t like dock.&nbsp;<\/p>\r\n\r\n<p>Preinstalled apps are Geary, Calendar, Midori and some other apps like Music, Videos. I don&#39;t like Geary as mail app, sorry, but just don&#39;t. Calendar is application called maya, there is no sync with Google or any other services, no week view, no day view, only month view.. What the fuck??? &nbsp;I said OK and started installing my favorite apps.&nbsp;<\/p>\r\n\r\n<p>After installing Chrome and Webstorm my computer freezed, just stacked. No response. I restarted and tried again. It freezed again when I was installing GIT via terminal.&nbsp;<\/p>\r\n\r\n<p>I couldn&#39;t find graphic driver settings. I had weird lag with Chrome tabs. I understood that Elementary OS still is not ready for me, maybe someone else, but not me, I have no patience for this shit.&nbsp;<\/p>\r\n\r\n<p>Since last time two years ago, nothing changed, still freeze and lag.<\/p>\r\n\r\n<p>My computer - Core i5 &nbsp;3.20, 12gb ram, GeForce 770.&nbsp;<\/p>\r\n",
+      "post_teaser": "<p><img alt=\"Elementary OS\" src=\"https://i.imgur.com/oDl8FV5.png\" style=\"height:898px; width:1313px\" /><\/p>\r\n\r\n<p>The last time I&#39;ve tried the Elementary OS was about 2 years ago. It&#39;s beautiful, but I didn&#39;t like it because of lags and freezes. It was old machine, Core i3 and 4gb ram, GeForce 8800.&nbsp;<\/p>\r\n\r\n<p>It&#39;s time to try what has been changed.<\/p>\r\n\r\n<p>Ubuntu is great OS for development and work, but isn&#39;t perfect at all, that&#39;s why I always look for something new to try, this time it&#39;s Elementary OS.<\/p>\r\n\r\n",
+      "post_published": true,
+      "post_dateCreate": {
+        "date": "2015-07-25T15:02:35.845Z"
+      },
+      "__v": 0
+    }
+
+  ]
+}
+
+
+
+
+
+
+

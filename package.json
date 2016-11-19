@@ -18,7 +18,9 @@
     "react-router": "*",
     "redux": "*",
     "react-router-redux": "*",
-    "material-ui": "*"
+    "material-ui": "*",
+    "firebase": "*",
+    "firebase-tools": "*"
   },
   "devDependencies": {
     "babel-core": "*",
